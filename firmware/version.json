@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "firmware": "https://raw.githubusercontent.com/truongduckhiem/ESP32_OTA/main/firmware/firmware.bin",
   "date": "2026-07-08",
-  "description": "LED LIGHT FASTER"
+  "description": "LED LIGHT 0,05s"
 }
