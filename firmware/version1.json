@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "firmware": "https://raw.githubusercontent.com/truongduckhiem/ESP32_OTA/main/firmware/firmware1.bin",
   "date": "2026-07-21",
-  "description": "test he thong2"
+  "description": "test he thong3"
 }
